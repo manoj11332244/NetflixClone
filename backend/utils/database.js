@@ -11,7 +11,7 @@
 //     }).catch((err)=>{
 //         console.log(err)
 //     })
-//     mongoose.connect('mongodb+srv://aaadea522:Adam%40123@cluster0.lmur7.mongodb.net/', {
+//     mongoose.connect('', {
 //         useNewUrlParser: true,
 //         useUnifiedTopology: true
 //       })
